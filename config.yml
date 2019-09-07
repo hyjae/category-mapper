@@ -4,3 +4,10 @@ mysql:
     address: 192.168.210.146
     dbname: humuson
     charset: utf8
+
+es:
+    username: root
+    password: password
+    address: [
+        192.168.210.149,
+    ]

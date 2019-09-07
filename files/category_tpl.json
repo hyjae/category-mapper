@@ -1,0 +1,64 @@
+{
+  "index_patterns": [
+    "intg_category"
+  ],
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "intg_category_analyzer": {
+          "type": "custom",
+          "tokenizer": "intg_category_tokenizer",
+          "filter": [
+            "nori_stoptags_filter"
+          ]
+        }
+      },
+      "filter": {
+        "nori_stoptags_filter": {
+          "type": "nori_part_of_speech",
+          "stoptags": [
+            "E",
+            "J",
+            "IC",
+            "SC",
+            "SE",
+            "SF",
+            "SSC",
+            "SSO"
+          ]
+        }
+      },
+      "tokenizer": {
+        "intg_category_tokenizer": {
+          "decompound_mode": "mixed",
+          "type": "nori_tokenizer"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "categories": {
+      "properties": {
+        "intg_id": {
+          "type": "text"
+        },
+        "intg_cat1": {
+          "type": "text",
+          "analyzer": "intg_category_analyzer"
+        },
+        "intg_cat2": {
+          "type": "text",
+          "analyzer": "intg_category_analyzer"
+        },
+        "intg_cat3": {
+          "type": "text",
+          "analyzer": "intg_category_analyzer"
+        },
+        "intg_cat4": {
+          "type": "text",
+          "analyzer": "intg_category_analyzer"
+        }
+      }
+    }
+  }
+}

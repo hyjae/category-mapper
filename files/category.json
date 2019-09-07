@@ -1,0 +1,3943 @@
+[
+  {
+    "intg_id": "C01_CLTH_001",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "솔리드/무지"
+  },
+  {
+    "intg_id": "C01_CLTH_002",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "패턴/체크/스트라이프"
+  },
+  {
+    "intg_id": "C01_CLTH_003",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "탑/민소매"
+  },
+  {
+    "intg_id": "C01_CLTH_004",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "루즈핏/박스/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_005",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "기타티셔츠"
+  },
+  {
+    "intg_id": "C01_CLTH_006",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "기본/솔리드/무지"
+  },
+  {
+    "intg_id": "C01_CLTH_007",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "패턴/체크/스트라이프"
+  },
+  {
+    "intg_id": "C01_CLTH_008",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "탑/민소매/오프숄더"
+  },
+  {
+    "intg_id": "C01_CLTH_009",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "루즈핏/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_010",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "쉬폰/레이스/실크"
+  },
+  {
+    "intg_id": "C01_CLTH_011",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "블라우스/셔츠",
+    "intg_cat4": "기타블라우스/셔츠"
+  },
+  {
+    "intg_id": "C01_CLTH_012",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본니트/스웨터"
+  },
+  {
+    "intg_id": "C01_CLTH_013",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본가디건/베스트"
+  },
+  {
+    "intg_id": "C01_CLTH_014",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "루즈핏/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_015",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "카라/폴라/터틀넥"
+  },
+  {
+    "intg_id": "C01_CLTH_016",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기타니트/스웨터/가디건"
+  },
+  {
+    "intg_id": "C01_CLTH_017",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "원피스",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_018",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "원피스",
+    "intg_cat4": "민소매/반팔/미니"
+  },
+  {
+    "intg_id": "C01_CLTH_019",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "원피스",
+    "intg_cat4": "쉬폰/레이스"
+  },
+  {
+    "intg_id": "C01_CLTH_020",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "원피스",
+    "intg_cat4": "니트/모직/트위드"
+  },
+  {
+    "intg_id": "C01_CLTH_021",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "원피스",
+    "intg_cat4": "기타원피스"
+  },
+  {
+    "intg_id": "C01_CLTH_022",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "스커트",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_023",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "스커트",
+    "intg_cat4": "H라인"
+  },
+  {
+    "intg_id": "C01_CLTH_024",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "스커트",
+    "intg_cat4": "A라인/플레어"
+  },
+  {
+    "intg_id": "C01_CLTH_025",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "스커트",
+    "intg_cat4": "미디/미니"
+  },
+  {
+    "intg_id": "C01_CLTH_026",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "스커트",
+    "intg_cat4": "기타스커트"
+  },
+  {
+    "intg_id": "C01_CLTH_027",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기본/정장/슬랙스"
+  },
+  {
+    "intg_id": "C01_CLTH_028",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "반바지"
+  },
+  {
+    "intg_id": "C01_CLTH_029",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "스키니/레깅스/제깅스"
+  },
+  {
+    "intg_id": "C01_CLTH_030",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_031",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "면/폴리"
+  },
+  {
+    "intg_id": "C01_CLTH_032",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기타팬츠"
+  },
+  {
+    "intg_id": "C01_CLTH_033",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "트렌치"
+  },
+  {
+    "intg_id": "C01_CLTH_034",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "롱"
+  },
+  {
+    "intg_id": "C01_CLTH_035",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "하프/숏/피"
+  },
+  {
+    "intg_id": "C01_CLTH_036",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "패딩/다운/퍼"
+  },
+  {
+    "intg_id": "C01_CLTH_037",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "울/캐시미어"
+  },
+  {
+    "intg_id": "C01_CLTH_038",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "가죽/모피"
+  },
+  {
+    "intg_id": "C01_CLTH_039",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "기타코트"
+  },
+  {
+    "intg_id": "C01_CLTH_040",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_041",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "캐주얼/후드/집업"
+  },
+  {
+    "intg_id": "C01_CLTH_042",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "야상/사파리/항공"
+  },
+  {
+    "intg_id": "C01_CLTH_043",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "패딩/다운"
+  },
+  {
+    "intg_id": "C01_CLTH_044",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_045",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "가죽/라이더"
+  },
+  {
+    "intg_id": "C01_CLTH_046",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기타재킷/점퍼"
+  },
+  {
+    "intg_id": "C01_CLTH_047",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "테마의류",
+    "intg_cat4": "정장/드레스세트"
+  },
+  {
+    "intg_id": "C01_CLTH_048",
+    "intg_cat1": "의류",
+    "intg_cat2": "여성의류",
+    "intg_cat3": "테마의류",
+    "intg_cat4": "트레이닝/기타"
+  },
+  {
+    "intg_id": "C01_CLTH_049",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "긴팔"
+  },
+  {
+    "intg_id": "C01_CLTH_050",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "반팔/민소매"
+  },
+  {
+    "intg_id": "C01_CLTH_051",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "루즈핏/박스/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_052",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "피케/카라"
+  },
+  {
+    "intg_id": "C01_CLTH_053",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "맨투맨/후드"
+  },
+  {
+    "intg_id": "C01_CLTH_054",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "기타티셔츠"
+  },
+  {
+    "intg_id": "C01_CLTH_055",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "셔츠/남방",
+    "intg_cat4": "기본/솔리드/무지"
+  },
+  {
+    "intg_id": "C01_CLTH_056",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "셔츠/남방",
+    "intg_cat4": "패턴/체크/스트라이프"
+  },
+  {
+    "intg_id": "C01_CLTH_057",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "셔츠/남방",
+    "intg_cat4": "정장/드레스"
+  },
+  {
+    "intg_id": "C01_CLTH_058",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "셔츠/남방",
+    "intg_cat4": "기타셔츠/남방"
+  },
+  {
+    "intg_id": "C01_CLTH_059",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본니트/스웨터"
+  },
+  {
+    "intg_id": "C01_CLTH_060",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본가디건/베스트"
+  },
+  {
+    "intg_id": "C01_CLTH_061",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "루즈핏/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_062",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "카라/폴라/터틀넥"
+  },
+  {
+    "intg_id": "C01_CLTH_063",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기타니트/스웨터/가디건"
+  },
+  {
+    "intg_id": "C01_CLTH_064",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기본/정장/슬랙스"
+  },
+  {
+    "intg_id": "C01_CLTH_065",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "반바지"
+  },
+  {
+    "intg_id": "C01_CLTH_066",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_067",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "면/폴리"
+  },
+  {
+    "intg_id": "C01_CLTH_068",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기타팬츠"
+  },
+  {
+    "intg_id": "C01_CLTH_069",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "트렌치/맥"
+  },
+  {
+    "intg_id": "C01_CLTH_070",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "롱"
+  },
+  {
+    "intg_id": "C01_CLTH_071",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "하프/숏/피"
+  },
+  {
+    "intg_id": "C01_CLTH_072",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "패딩/다운/퍼"
+  },
+  {
+    "intg_id": "C01_CLTH_073",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "울/캐시미어"
+  },
+  {
+    "intg_id": "C01_CLTH_074",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "가죽/모피"
+  },
+  {
+    "intg_id": "C01_CLTH_075",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "코트",
+    "intg_cat4": "기타코트"
+  },
+  {
+    "intg_id": "C01_CLTH_076",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_077",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "캐주얼/후드/집업"
+  },
+  {
+    "intg_id": "C01_CLTH_078",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "야상/사파리/항공"
+  },
+  {
+    "intg_id": "C01_CLTH_079",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "패딩/다운"
+  },
+  {
+    "intg_id": "C01_CLTH_080",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_081",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "가죽/라이더"
+  },
+  {
+    "intg_id": "C01_CLTH_082",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기타재킷/점퍼"
+  },
+  {
+    "intg_id": "C01_CLTH_083",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "정장세트",
+    "intg_cat4": "원버튼"
+  },
+  {
+    "intg_id": "C01_CLTH_084",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "정장세트",
+    "intg_cat4": "투/쓰리버튼"
+  },
+  {
+    "intg_id": "C01_CLTH_085",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "정장세트",
+    "intg_cat4": "기타정장세트"
+  },
+  {
+    "intg_id": "C01_CLTH_086",
+    "intg_cat1": "의류",
+    "intg_cat2": "남성의류",
+    "intg_cat3": "테마의류",
+    "intg_cat4": "트레이닝/기타"
+  },
+  {
+    "intg_id": "C01_CLTH_087",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "솔리드/무지"
+  },
+  {
+    "intg_id": "C01_CLTH_088",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "패턴/체크/스트라이프"
+  },
+  {
+    "intg_id": "C01_CLTH_089",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "탑/민소매"
+  },
+  {
+    "intg_id": "C01_CLTH_090",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "루즈핏/박스/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_091",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "티셔츠",
+    "intg_cat4": "기타티셔츠"
+  },
+  {
+    "intg_id": "C01_CLTH_092",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "블라우스/셔츠/남방",
+    "intg_cat4": "기본/솔리드/무지"
+  },
+  {
+    "intg_id": "C01_CLTH_093",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "블라우스/셔츠/남방",
+    "intg_cat4": "패턴/체크/스트라이프"
+  },
+  {
+    "intg_id": "C01_CLTH_094",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "블라우스/셔츠/남방",
+    "intg_cat4": "정장/드레스"
+  },
+  {
+    "intg_id": "C01_CLTH_095",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "블라우스/셔츠/남방",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_096",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "블라우스/셔츠/남방",
+    "intg_cat4": "기타블라우스/셔츠/남방"
+  },
+  {
+    "intg_id": "C01_CLTH_097",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본니트/스웨터"
+  },
+  {
+    "intg_id": "C01_CLTH_098",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기본가디건/베스트"
+  },
+  {
+    "intg_id": "C01_CLTH_099",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "루즈핏/롱"
+  },
+  {
+    "intg_id": "C01_CLTH_100",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "카라/폴라/터틀넥"
+  },
+  {
+    "intg_id": "C01_CLTH_101",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "니트/스웨터/가디건",
+    "intg_cat4": "기타니트/스웨터/가디건"
+  },
+  {
+    "intg_id": "C01_CLTH_102",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "원피스",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_103",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "원피스",
+    "intg_cat4": "민소매/반팔/미니"
+  },
+  {
+    "intg_id": "C01_CLTH_104",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "원피스",
+    "intg_cat4": "쉬폰/레이스"
+  },
+  {
+    "intg_id": "C01_CLTH_105",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "원피스",
+    "intg_cat4": "니트/모직/트위드"
+  },
+  {
+    "intg_id": "C01_CLTH_106",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "원피스",
+    "intg_cat4": "기타원피스"
+  },
+  {
+    "intg_id": "C01_CLTH_107",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "스커트",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_108",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "스커트",
+    "intg_cat4": "H라인"
+  },
+  {
+    "intg_id": "C01_CLTH_109",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "스커트",
+    "intg_cat4": "A라인/플레어"
+  },
+  {
+    "intg_id": "C01_CLTH_110",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "스커트",
+    "intg_cat4": "미디/미니"
+  },
+  {
+    "intg_id": "C01_CLTH_111",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "스커트",
+    "intg_cat4": "기타스커트"
+  },
+  {
+    "intg_id": "C01_CLTH_112",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기본"
+  },
+  {
+    "intg_id": "C01_CLTH_113",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "반바지"
+  },
+  {
+    "intg_id": "C01_CLTH_114",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "스키니/레깅스/제깅스"
+  },
+  {
+    "intg_id": "C01_CLTH_115",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_116",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "면/폴리"
+  },
+  {
+    "intg_id": "C01_CLTH_117",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "팬츠",
+    "intg_cat4": "기타팬츠"
+  },
+  {
+    "intg_id": "C01_CLTH_118",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "코트",
+    "intg_cat4": "트렌치"
+  },
+  {
+    "intg_id": "C01_CLTH_119",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "코트",
+    "intg_cat4": "롱"
+  },
+  {
+    "intg_id": "C01_CLTH_120",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "코트",
+    "intg_cat4": "하프/숏/피"
+  },
+  {
+    "intg_id": "C01_CLTH_121",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "코트",
+    "intg_cat4": "기타코트"
+  },
+  {
+    "intg_id": "C01_CLTH_122",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기본/정장"
+  },
+  {
+    "intg_id": "C01_CLTH_123",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "캐주얼/후드/집업"
+  },
+  {
+    "intg_id": "C01_CLTH_124",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "야상/사파리/항공"
+  },
+  {
+    "intg_id": "C01_CLTH_125",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "바람막이/야구/스포티"
+  },
+  {
+    "intg_id": "C01_CLTH_126",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "패딩/다운"
+  },
+  {
+    "intg_id": "C01_CLTH_127",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "청/데님"
+  },
+  {
+    "intg_id": "C01_CLTH_128",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "재킷/점퍼",
+    "intg_cat4": "기타재킷/점퍼"
+  },
+  {
+    "intg_id": "C01_CLTH_129",
+    "intg_cat1": "의류",
+    "intg_cat2": "유니섹스",
+    "intg_cat3": "테마의류",
+    "intg_cat4": "트레이닝/기타"
+  },
+  {
+    "intg_id": "C01_CLTH_130",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "브라"
+  },
+  {
+    "intg_id": "C01_CLTH_131",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "팬티"
+  },
+  {
+    "intg_id": "C01_CLTH_132",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "브라/팬티세트/내복"
+  },
+  {
+    "intg_id": "C01_CLTH_133",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "보정/기능성웨어"
+  },
+  {
+    "intg_id": "C01_CLTH_134",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "잠옷/홈웨어/이지웨어"
+  },
+  {
+    "intg_id": "C01_CLTH_135",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "여성언더웨어",
+    "intg_cat4": "런닝/캐미솔/슬립/가운"
+  },
+  {
+    "intg_id": "C01_CLTH_136",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "남성언더웨어",
+    "intg_cat4": "런닝"
+  },
+  {
+    "intg_id": "C01_CLTH_137",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "남성언더웨어",
+    "intg_cat4": "팬티"
+  },
+  {
+    "intg_id": "C01_CLTH_138",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "남성언더웨어",
+    "intg_cat4": "런닝/팬티세트/내복"
+  },
+  {
+    "intg_id": "C01_CLTH_139",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "남성언더웨어",
+    "intg_cat4": "잠옷/홈웨어/이지웨어"
+  },
+  {
+    "intg_id": "C01_CLTH_140",
+    "intg_cat1": "의류",
+    "intg_cat2": "언더웨어",
+    "intg_cat3": "기타언더웨어",
+    "intg_cat4": "커플잠옷/홈웨어"
+  },
+  {
+    "intg_id": "C02_SPRT_001",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "의류",
+    "intg_cat4": "여성스포츠/헬스/요가복"
+  },
+  {
+    "intg_id": "C02_SPRT_002",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "의류",
+    "intg_cat4": "남성스포츠/헬스/요가복"
+  },
+  {
+    "intg_id": "C02_SPRT_003",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "스포츠신발"
+  },
+  {
+    "intg_id": "C02_SPRT_004",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "스포츠가방"
+  },
+  {
+    "intg_id": "C02_SPRT_005",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "헬스/운동기구"
+  },
+  {
+    "intg_id": "C02_SPRT_006",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "요가용품"
+  },
+  {
+    "intg_id": "C02_SPRT_007",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "스포츠/헬스/요가",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "스포츠/헬스용품"
+  },
+  {
+    "intg_id": "C02_SPRT_008",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "의류",
+    "intg_cat4": "여성골프의류"
+  },
+  {
+    "intg_id": "C02_SPRT_009",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "의류",
+    "intg_cat4": "남성골프의류"
+  },
+  {
+    "intg_id": "C02_SPRT_010",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "골프화"
+  },
+  {
+    "intg_id": "C02_SPRT_011",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "골프가방"
+  },
+  {
+    "intg_id": "C02_SPRT_012",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "골프채/클럽"
+  },
+  {
+    "intg_id": "C02_SPRT_013",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "골프",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "골프용품"
+  },
+  {
+    "intg_id": "C02_SPRT_014",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "의류",
+    "intg_cat4": "여성아웃도어"
+  },
+  {
+    "intg_id": "C02_SPRT_015",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "의류",
+    "intg_cat4": "남성아웃도어"
+  },
+  {
+    "intg_id": "C02_SPRT_016",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "등산화"
+  },
+  {
+    "intg_id": "C02_SPRT_017",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "등산백팩"
+  },
+  {
+    "intg_id": "C02_SPRT_018",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "텐트"
+  },
+  {
+    "intg_id": "C02_SPRT_019",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "낚시대"
+  },
+  {
+    "intg_id": "C02_SPRT_020",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "등산용품"
+  },
+  {
+    "intg_id": "C02_SPRT_021",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "캠핑용품"
+  },
+  {
+    "intg_id": "C02_SPRT_022",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "낚시용품"
+  },
+  {
+    "intg_id": "C02_SPRT_023",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "등산/캠핑/자동차",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "자동차용품"
+  },
+  {
+    "intg_id": "C02_SPRT_024",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "의류",
+    "intg_cat4": "여성수영복"
+  },
+  {
+    "intg_id": "C02_SPRT_025",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "의류",
+    "intg_cat4": "여성래쉬가드/비치웨어"
+  },
+  {
+    "intg_id": "C02_SPRT_026",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "의류",
+    "intg_cat4": "남성수영복"
+  },
+  {
+    "intg_id": "C02_SPRT_027",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "의류",
+    "intg_cat4": "남성래쉬가드/비치웨어"
+  },
+  {
+    "intg_id": "C02_SPRT_028",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "의류",
+    "intg_cat4": "스키/보드복"
+  },
+  {
+    "intg_id": "C02_SPRT_029",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "아쿠아슈즈"
+  },
+  {
+    "intg_id": "C02_SPRT_030",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "수영용품"
+  },
+  {
+    "intg_id": "C02_SPRT_031",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "튜브/물놀이용품"
+  },
+  {
+    "intg_id": "C02_SPRT_032",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "스키/보드장비"
+  },
+  {
+    "intg_id": "C02_SPRT_033",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "수영/스키",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "스키/보드용품"
+  },
+  {
+    "intg_id": "C02_SPRT_034",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "의류",
+    "intg_cat4": "라이딩의류"
+  },
+  {
+    "intg_id": "C02_SPRT_035",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "자전거"
+  },
+  {
+    "intg_id": "C02_SPRT_036",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "인라인/보드"
+  },
+  {
+    "intg_id": "C02_SPRT_037",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "전동/익스트림기구"
+  },
+  {
+    "intg_id": "C02_SPRT_038",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "라이딩용품"
+  },
+  {
+    "intg_id": "C02_SPRT_039",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "야구용품"
+  },
+  {
+    "intg_id": "C02_SPRT_040",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "테니스/배드민턴용품"
+  },
+  {
+    "intg_id": "C02_SPRT_041",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "축구용품"
+  },
+  {
+    "intg_id": "C02_SPRT_042",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "배구/농구/족구용품"
+  },
+  {
+    "intg_id": "C02_SPRT_043",
+    "intg_cat1": "스포츠/레저",
+    "intg_cat2": "자전거/익스트림/구기",
+    "intg_cat3": "용품/잡화",
+    "intg_cat4": "탁구/볼링/당구용품"
+  },
+  {
+    "intg_id": "C03_ACCS_001",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "여성가방",
+    "intg_cat4": "숄더백/크로스백"
+  },
+  {
+    "intg_id": "C03_ACCS_002",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "여성가방",
+    "intg_cat4": "토트백"
+  },
+  {
+    "intg_id": "C03_ACCS_003",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "여성가방",
+    "intg_cat4": "쇼퍼백"
+  },
+  {
+    "intg_id": "C03_ACCS_004",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "여성가방",
+    "intg_cat4": "클러치/파우치/미니백"
+  },
+  {
+    "intg_id": "C03_ACCS_005",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "여성가방",
+    "intg_cat4": "백팩"
+  },
+  {
+    "intg_id": "C03_ACCS_006",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남성가방",
+    "intg_cat4": "서류가방"
+  },
+  {
+    "intg_id": "C03_ACCS_007",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남성가방",
+    "intg_cat4": "숄더백/크로스백"
+  },
+  {
+    "intg_id": "C03_ACCS_008",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남성가방",
+    "intg_cat4": "토트백"
+  },
+  {
+    "intg_id": "C03_ACCS_009",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남성가방",
+    "intg_cat4": "백팩"
+  },
+  {
+    "intg_id": "C03_ACCS_010",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "캐주얼백팩/배낭"
+  },
+  {
+    "intg_id": "C03_ACCS_011",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "숄더/크로스/토트백"
+  },
+  {
+    "intg_id": "C03_ACCS_012",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "에코백/힙색/소형가방"
+  },
+  {
+    "intg_id": "C03_ACCS_013",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "노트북가방/파우치"
+  },
+  {
+    "intg_id": "C03_ACCS_014",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "이민/유학용가방"
+  },
+  {
+    "intg_id": "C03_ACCS_015",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "캐리어"
+  },
+  {
+    "intg_id": "C03_ACCS_016",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "가방",
+    "intg_cat3": "남녀공용가방/소품",
+    "intg_cat4": "여권케이스/가방소품"
+  },
+  {
+    "intg_id": "C03_ACCS_017",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "여성지갑",
+    "intg_cat4": "반지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_018",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "여성지갑",
+    "intg_cat4": "중지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_019",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "여성지갑",
+    "intg_cat4": "장지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_020",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "여성지갑",
+    "intg_cat4": "명함/카드지갑/머니클립"
+  },
+  {
+    "intg_id": "C03_ACCS_021",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "남성지갑",
+    "intg_cat4": "반지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_022",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "남성지갑",
+    "intg_cat4": "중지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_023",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "남성지갑",
+    "intg_cat4": "장지갑"
+  },
+  {
+    "intg_id": "C03_ACCS_024",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "남성지갑",
+    "intg_cat4": "명함/카드지갑/머니클립"
+  },
+  {
+    "intg_id": "C03_ACCS_025",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "지갑",
+    "intg_cat3": "기타지갑/소품",
+    "intg_cat4": "기타지갑/키홀더"
+  },
+  {
+    "intg_id": "C03_ACCS_026",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "여성화",
+    "intg_cat4": "하이힐/펌프스"
+  },
+  {
+    "intg_id": "C03_ACCS_027",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "여성화",
+    "intg_cat4": "플랫/로퍼/슬립온"
+  },
+  {
+    "intg_id": "C03_ACCS_028",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "여성화",
+    "intg_cat4": "워커/부츠/부티"
+  },
+  {
+    "intg_id": "C03_ACCS_029",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "여성화",
+    "intg_cat4": "샌들/슬리퍼/실내화"
+  },
+  {
+    "intg_id": "C03_ACCS_030",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "여성화",
+    "intg_cat4": "여성캐주얼화"
+  },
+  {
+    "intg_id": "C03_ACCS_031",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남성화",
+    "intg_cat4": "정장화"
+  },
+  {
+    "intg_id": "C03_ACCS_032",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남성화",
+    "intg_cat4": "로퍼/슬립온"
+  },
+  {
+    "intg_id": "C03_ACCS_033",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남성화",
+    "intg_cat4": "워커/부츠"
+  },
+  {
+    "intg_id": "C03_ACCS_034",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남성화",
+    "intg_cat4": "샌들/슬리퍼/실내화"
+  },
+  {
+    "intg_id": "C03_ACCS_035",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남성화",
+    "intg_cat4": "남성캐주얼화"
+  },
+  {
+    "intg_id": "C03_ACCS_036",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남녀공용화/용품",
+    "intg_cat4": "스니커즈/캔버스"
+  },
+  {
+    "intg_id": "C03_ACCS_037",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남녀공용화/용품",
+    "intg_cat4": "슬립온"
+  },
+  {
+    "intg_id": "C03_ACCS_038",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남녀공용화/용품",
+    "intg_cat4": "런닝화/워킹화/운동화"
+  },
+  {
+    "intg_id": "C03_ACCS_039",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남녀공용화/용품",
+    "intg_cat4": "컴포트화/효도화"
+  },
+  {
+    "intg_id": "C03_ACCS_040",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "신발",
+    "intg_cat3": "남녀공용화/용품",
+    "intg_cat4": "신발용품"
+  },
+  {
+    "intg_id": "C03_ACCS_041",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "벨트/멜빵",
+    "intg_cat4": "남성벨트/멜빵"
+  },
+  {
+    "intg_id": "C03_ACCS_042",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "벨트/멜빵",
+    "intg_cat4": "여성벨트/멜빵"
+  },
+  {
+    "intg_id": "C03_ACCS_043",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "넥타이/넥타이핀/커프스"
+  },
+  {
+    "intg_id": "C03_ACCS_044",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "우산"
+  },
+  {
+    "intg_id": "C03_ACCS_045",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "양산/우양산/레인코트"
+  },
+  {
+    "intg_id": "C03_ACCS_046",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "야구/캡모자"
+  },
+  {
+    "intg_id": "C03_ACCS_047",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "썬캡/여름모자"
+  },
+  {
+    "intg_id": "C03_ACCS_048",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "비니/니트/기타모자"
+  },
+  {
+    "intg_id": "C03_ACCS_049",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "장갑"
+  },
+  {
+    "intg_id": "C03_ACCS_050",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "손수건/스카프"
+  },
+  {
+    "intg_id": "C03_ACCS_051",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "머플러/숄/기타"
+  },
+  {
+    "intg_id": "C03_ACCS_052",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "스타킹/타이즈"
+  },
+  {
+    "intg_id": "C03_ACCS_053",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "여성양말"
+  },
+  {
+    "intg_id": "C03_ACCS_054",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "섬유/패션소품",
+    "intg_cat4": "남성양말"
+  },
+  {
+    "intg_id": "C03_ACCS_055",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "안경류",
+    "intg_cat4": "안경테"
+  },
+  {
+    "intg_id": "C03_ACCS_056",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "안경류",
+    "intg_cat4": "선글라스"
+  },
+  {
+    "intg_id": "C03_ACCS_057",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "시계",
+    "intg_cat4": "남성시계"
+  },
+  {
+    "intg_id": "C03_ACCS_058",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "시계",
+    "intg_cat4": "여성시계"
+  },
+  {
+    "intg_id": "C03_ACCS_059",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "패션소품",
+    "intg_cat3": "시계",
+    "intg_cat4": "남녀공용시계"
+  },
+  {
+    "intg_id": "C03_ACCS_060",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "순금/순은",
+    "intg_cat4": "순금귀걸이/반지/팔찌"
+  },
+  {
+    "intg_id": "C03_ACCS_061",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "순금/순은",
+    "intg_cat4": "순금목걸이/펜던트"
+  },
+  {
+    "intg_id": "C03_ACCS_062",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "순금/순은",
+    "intg_cat4": "순금골드바"
+  },
+  {
+    "intg_id": "C03_ACCS_063",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "순금/순은",
+    "intg_cat4": "순금/순은제품"
+  },
+  {
+    "intg_id": "C03_ACCS_064",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "금귀걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_065",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "은귀걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_066",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "패션귀걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_067",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "진주귀걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_068",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "다이아몬드/보석귀걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_069",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "귀걸이",
+    "intg_cat4": "피어싱"
+  },
+  {
+    "intg_id": "C03_ACCS_070",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "금목걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_071",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "은목걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_072",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "패션목걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_073",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "진주목걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_074",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "다이아몬드/보석목걸이"
+  },
+  {
+    "intg_id": "C03_ACCS_075",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "목걸이/펜던트",
+    "intg_cat4": "커플목걸이/펜던트"
+  },
+  {
+    "intg_id": "C03_ACCS_076",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "반지",
+    "intg_cat4": "금/은반지"
+  },
+  {
+    "intg_id": "C03_ACCS_077",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "반지",
+    "intg_cat4": "패션반지"
+  },
+  {
+    "intg_id": "C03_ACCS_078",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "반지",
+    "intg_cat4": "진주반지"
+  },
+  {
+    "intg_id": "C03_ACCS_079",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "반지",
+    "intg_cat4": "다이아몬드/보석반지"
+  },
+  {
+    "intg_id": "C03_ACCS_080",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "반지",
+    "intg_cat4": "커플링"
+  },
+  {
+    "intg_id": "C03_ACCS_081",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "세트/남성용주얼리",
+    "intg_cat4": "금/은주얼리세트"
+  },
+  {
+    "intg_id": "C03_ACCS_082",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "세트/남성용주얼리",
+    "intg_cat4": "보석/패션주얼리세트"
+  },
+  {
+    "intg_id": "C03_ACCS_083",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "세트/남성용주얼리",
+    "intg_cat4": "남성용주얼리"
+  },
+  {
+    "intg_id": "C03_ACCS_084",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "금팔찌/발찌"
+  },
+  {
+    "intg_id": "C03_ACCS_085",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "은팔찌/발찌"
+  },
+  {
+    "intg_id": "C03_ACCS_086",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "패션팔찌/발찌"
+  },
+  {
+    "intg_id": "C03_ACCS_087",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "보석팔찌/발찌"
+  },
+  {
+    "intg_id": "C03_ACCS_088",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "브로치/와펜"
+  },
+  {
+    "intg_id": "C03_ACCS_089",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "팔지/발찌/브로치/소품",
+    "intg_cat4": "보석/주얼리소품"
+  },
+  {
+    "intg_id": "C03_ACCS_090",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "헤어액세서리",
+    "intg_cat4": "헤어핀"
+  },
+  {
+    "intg_id": "C03_ACCS_091",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "헤어액세서리",
+    "intg_cat4": "헤어밴드"
+  },
+  {
+    "intg_id": "C03_ACCS_092",
+    "intg_cat1": "패션잡화",
+    "intg_cat2": "보석/주얼리",
+    "intg_cat3": "헤어액세서리",
+    "intg_cat4": "기타헤어액세서리"
+  },
+  {
+    "intg_id": "C04_CSMT_001",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "스킨/토너/미스트"
+  },
+  {
+    "intg_id": "C04_CSMT_002",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "로션/에멀젼"
+  },
+  {
+    "intg_id": "C04_CSMT_003",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "에센스/앰플/오일"
+  },
+  {
+    "intg_id": "C04_CSMT_004",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "크림"
+  },
+  {
+    "intg_id": "C04_CSMT_005",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "마스크/팩"
+  },
+  {
+    "intg_id": "C04_CSMT_006",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "클렌징/리무버/스크럽"
+  },
+  {
+    "intg_id": "C04_CSMT_007",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "선케어"
+  },
+  {
+    "intg_id": "C04_CSMT_008",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "스킨케어",
+    "intg_cat4": "기타스킨케어제품/기구"
+  },
+  {
+    "intg_id": "C04_CSMT_009",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "메이크업",
+    "intg_cat4": "베이스메이크업"
+  },
+  {
+    "intg_id": "C04_CSMT_010",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "메이크업",
+    "intg_cat4": "립/블러셔/하이라이터"
+  },
+  {
+    "intg_id": "C04_CSMT_011",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "메이크업",
+    "intg_cat4": "아이/브로우메이크업"
+  },
+  {
+    "intg_id": "C04_CSMT_012",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "메이크업",
+    "intg_cat4": "기타메이크업용품"
+  },
+  {
+    "intg_id": "C04_CSMT_013",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "화장품",
+    "intg_cat3": "남성화장품",
+    "intg_cat4": "스킨케어/메이크업"
+  },
+  {
+    "intg_id": "C04_CSMT_014",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "헤어케어",
+    "intg_cat4": "샴푸/탈모샴푸"
+  },
+  {
+    "intg_id": "C04_CSMT_015",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "헤어케어",
+    "intg_cat4": "린스/컨디셔너"
+  },
+  {
+    "intg_id": "C04_CSMT_016",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "헤어케어",
+    "intg_cat4": "에센스/트리트먼트"
+  },
+  {
+    "intg_id": "C04_CSMT_017",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "헤어케어",
+    "intg_cat4": "기타헤어케어제품/기구"
+  },
+  {
+    "intg_id": "C04_CSMT_018",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "바디케어",
+    "intg_cat4": "바디로션/오일/미스트"
+  },
+  {
+    "intg_id": "C04_CSMT_019",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "바디케어",
+    "intg_cat4": "바디클렌저/스크럽/목욕"
+  },
+  {
+    "intg_id": "C04_CSMT_020",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "바디케어",
+    "intg_cat4": "핸드/풋/바스트/힙케어"
+  },
+  {
+    "intg_id": "C04_CSMT_021",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "바디케어",
+    "intg_cat4": "기타바디케어제품/기구"
+  },
+  {
+    "intg_id": "C04_CSMT_022",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "네일케어",
+    "intg_cat4": "매니큐어/젤네일/용품"
+  },
+  {
+    "intg_id": "C04_CSMT_023",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "향수/디퓨저/캔들",
+    "intg_cat4": "여성향수"
+  },
+  {
+    "intg_id": "C04_CSMT_024",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "향수/디퓨저/캔들",
+    "intg_cat4": "남성향수"
+  },
+  {
+    "intg_id": "C04_CSMT_025",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "향수/디퓨저/캔들",
+    "intg_cat4": "공용향수/미스트/세트"
+  },
+  {
+    "intg_id": "C04_CSMT_026",
+    "intg_cat1": "화장품/이미용품",
+    "intg_cat2": "이미용품",
+    "intg_cat3": "향수/디퓨저/캔들",
+    "intg_cat4": "디퓨저/방향제/캔들"
+  },
+  {
+    "intg_id": "C05_PRGN_001",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "임산부용품",
+    "intg_cat4": "임산부의류/잡화"
+  },
+  {
+    "intg_id": "C05_PRGN_002",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "임산부용품",
+    "intg_cat4": "임산부스킨/바디케어"
+  },
+  {
+    "intg_id": "C05_PRGN_003",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "신생아의류/잡화"
+  },
+  {
+    "intg_id": "C05_PRGN_004",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "신생아스킨/바디케어"
+  },
+  {
+    "intg_id": "C05_PRGN_005",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "목욕/위생용품"
+  },
+  {
+    "intg_id": "C05_PRGN_006",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "기저귀/물티슈/가방"
+  },
+  {
+    "intg_id": "C05_PRGN_007",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "수유용품"
+  },
+  {
+    "intg_id": "C05_PRGN_008",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "분유/이유식"
+  },
+  {
+    "intg_id": "C05_PRGN_009",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "임신/출산/신생아",
+    "intg_cat3": "신생아용품",
+    "intg_cat4": "이유용품"
+  },
+  {
+    "intg_id": "C05_PRGN_010",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "티셔츠"
+  },
+  {
+    "intg_id": "C05_PRGN_011",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "블라우스/남방"
+  },
+  {
+    "intg_id": "C05_PRGN_012",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "니트/가디건/베스트"
+  },
+  {
+    "intg_id": "C05_PRGN_013",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "원피스"
+  },
+  {
+    "intg_id": "C05_PRGN_014",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "스커트"
+  },
+  {
+    "intg_id": "C05_PRGN_015",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "바지"
+  },
+  {
+    "intg_id": "C05_PRGN_016",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "코트/재킷/점퍼"
+  },
+  {
+    "intg_id": "C05_PRGN_017",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "여아동의류",
+    "intg_cat4": "트레이닝/상하복세트"
+  },
+  {
+    "intg_id": "C05_PRGN_018",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "티셔츠"
+  },
+  {
+    "intg_id": "C05_PRGN_019",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "남방/셔츠"
+  },
+  {
+    "intg_id": "C05_PRGN_020",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "니트/가디건/베스트"
+  },
+  {
+    "intg_id": "C05_PRGN_021",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "바지"
+  },
+  {
+    "intg_id": "C05_PRGN_022",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "코트/재킷/점퍼"
+  },
+  {
+    "intg_id": "C05_PRGN_023",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "남아동의류",
+    "intg_cat4": "트레이닝/상하복세트"
+  },
+  {
+    "intg_id": "C05_PRGN_024",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "상의"
+  },
+  {
+    "intg_id": "C05_PRGN_025",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "하의"
+  },
+  {
+    "intg_id": "C05_PRGN_026",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "일체형/상하복세트/정장"
+  },
+  {
+    "intg_id": "C05_PRGN_027",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "수영복/비치웨어"
+  },
+  {
+    "intg_id": "C05_PRGN_028",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "발레/스키/보드복"
+  },
+  {
+    "intg_id": "C05_PRGN_029",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동공용의류",
+    "intg_cat4": "백일/돌/한복/테마의류"
+  },
+  {
+    "intg_id": "C05_PRGN_030",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동언더웨어",
+    "intg_cat4": "실내복/내의"
+  },
+  {
+    "intg_id": "C05_PRGN_031",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동언더웨어",
+    "intg_cat4": "잠옷/수면조끼"
+  },
+  {
+    "intg_id": "C05_PRGN_032",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동언더웨어",
+    "intg_cat4": "런닝/팬티"
+  },
+  {
+    "intg_id": "C05_PRGN_033",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동언더웨어",
+    "intg_cat4": "브라/속치마"
+  },
+  {
+    "intg_id": "C05_PRGN_034",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "가방"
+  },
+  {
+    "intg_id": "C05_PRGN_035",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "신발/무릎보호대"
+  },
+  {
+    "intg_id": "C05_PRGN_036",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "우산/우의/장화/방한화"
+  },
+  {
+    "intg_id": "C05_PRGN_037",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "양말"
+  },
+  {
+    "intg_id": "C05_PRGN_038",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "모자"
+  },
+  {
+    "intg_id": "C05_PRGN_039",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동패션잡화",
+    "intg_cat4": "패션소품/앞치마"
+  },
+  {
+    "intg_id": "C05_PRGN_040",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "유아도서"
+  },
+  {
+    "intg_id": "C05_PRGN_041",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "아동도서"
+  },
+  {
+    "intg_id": "C05_PRGN_042",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "초등도서"
+  },
+  {
+    "intg_id": "C05_PRGN_043",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "학습지/참고서"
+  },
+  {
+    "intg_id": "C05_PRGN_044",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "CD/DVD/일반도서"
+  },
+  {
+    "intg_id": "C05_PRGN_045",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동도서/교구",
+    "intg_cat4": "칠판/학습용교구"
+  },
+  {
+    "intg_id": "C05_PRGN_046",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "신생아/유아완구"
+  },
+  {
+    "intg_id": "C05_PRGN_047",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "역할/인형완구"
+  },
+  {
+    "intg_id": "C05_PRGN_048",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "블록/퍼즐/보드완구"
+  },
+  {
+    "intg_id": "C05_PRGN_049",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "승용/대형/조종완구"
+  },
+  {
+    "intg_id": "C05_PRGN_050",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "로봇/액션/조립완구"
+  },
+  {
+    "intg_id": "C05_PRGN_051",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "스포츠/시즌완구"
+  },
+  {
+    "intg_id": "C05_PRGN_052",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "유모차/붕붕카/웨건"
+  },
+  {
+    "intg_id": "C05_PRGN_053",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "바운서/가구/침구"
+  },
+  {
+    "intg_id": "C05_PRGN_054",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "매트/안전용품"
+  },
+  {
+    "intg_id": "C05_PRGN_055",
+    "intg_cat1": "임신/출산/유아동",
+    "intg_cat2": "유아동",
+    "intg_cat3": "유아동완구/용품",
+    "intg_cat4": "카시트/아기띠/기타용품"
+  },
+  {
+    "intg_id": "C06_FOOD_001",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "농산물",
+    "intg_cat4": "쌀/잡곡/혼합곡"
+  },
+  {
+    "intg_id": "C06_FOOD_002",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "농산물",
+    "intg_cat4": "과일/건과"
+  },
+  {
+    "intg_id": "C06_FOOD_003",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "농산물",
+    "intg_cat4": "채소/버섯/건조농산물"
+  },
+  {
+    "intg_id": "C06_FOOD_004",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "농산물",
+    "intg_cat4": "견과"
+  },
+  {
+    "intg_id": "C06_FOOD_005",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "수산물",
+    "intg_cat4": "생선/해산물"
+  },
+  {
+    "intg_id": "C06_FOOD_006",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "수산물",
+    "intg_cat4": "건어물/김/해초류"
+  },
+  {
+    "intg_id": "C06_FOOD_007",
+    "intg_cat1": "식품",
+    "intg_cat2": "신선식품",
+    "intg_cat3": "축산물",
+    "intg_cat4": "축산물"
+  },
+  {
+    "intg_id": "C06_FOOD_008",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "즉석식품",
+    "intg_cat4": "즉석밥/국/탕"
+  },
+  {
+    "intg_id": "C06_FOOD_009",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "즉석식품",
+    "intg_cat4": "간편/즉석식품"
+  },
+  {
+    "intg_id": "C06_FOOD_010",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "김치"
+  },
+  {
+    "intg_id": "C06_FOOD_011",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "축산/수산가공식품"
+  },
+  {
+    "intg_id": "C06_FOOD_012",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "생수/주스/음료"
+  },
+  {
+    "intg_id": "C06_FOOD_013",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "라면/우동/냉면/면류"
+  },
+  {
+    "intg_id": "C06_FOOD_014",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "우유/두유/유가공품"
+  },
+  {
+    "intg_id": "C06_FOOD_015",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "통조림/캔/잼/소스"
+  },
+  {
+    "intg_id": "C06_FOOD_016",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "차/커피/녹차"
+  },
+  {
+    "intg_id": "C06_FOOD_017",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "초콜릿/사탕/껌"
+  },
+  {
+    "intg_id": "C06_FOOD_018",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "과자/제과재료"
+  },
+  {
+    "intg_id": "C06_FOOD_019",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "빵/떡/제빵재료/가루"
+  },
+  {
+    "intg_id": "C06_FOOD_020",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "반찬/젓갈/장/양념"
+  },
+  {
+    "intg_id": "C06_FOOD_021",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "기름/식용유"
+  },
+  {
+    "intg_id": "C06_FOOD_022",
+    "intg_cat1": "식품",
+    "intg_cat2": "즉석/가공식품",
+    "intg_cat3": "가공식품",
+    "intg_cat4": "조미료/향신료"
+  },
+  {
+    "intg_id": "C06_FOOD_023",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "홍삼/인삼/녹용"
+  },
+  {
+    "intg_id": "C06_FOOD_024",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "건강즙/엑기스"
+  },
+  {
+    "intg_id": "C06_FOOD_025",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "슈퍼푸드/환/분말/오일"
+  },
+  {
+    "intg_id": "C06_FOOD_026",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "건강식품/꿀/로열젤리"
+  },
+  {
+    "intg_id": "C06_FOOD_027",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "비타민"
+  },
+  {
+    "intg_id": "C06_FOOD_028",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "건강식품",
+    "intg_cat4": "기타건강식품"
+  },
+  {
+    "intg_id": "C06_FOOD_029",
+    "intg_cat1": "식품",
+    "intg_cat2": "건강/다이어트식품",
+    "intg_cat3": "다이어트식품",
+    "intg_cat4": "다이어트/헬스/선식"
+  },
+  {
+    "intg_id": "C07_LIFE_001",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "세탁/청소",
+    "intg_cat4": "세탁/다림용품"
+  },
+  {
+    "intg_id": "C07_LIFE_002",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "세탁/청소",
+    "intg_cat4": "세탁세제/섬유유연제"
+  },
+  {
+    "intg_id": "C07_LIFE_003",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "세탁/청소",
+    "intg_cat4": "주방세제"
+  },
+  {
+    "intg_id": "C07_LIFE_004",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "세탁/청소",
+    "intg_cat4": "세정제/세척제"
+  },
+  {
+    "intg_id": "C07_LIFE_005",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "세탁/청소",
+    "intg_cat4": "기타청소용품"
+  },
+  {
+    "intg_id": "C07_LIFE_006",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "실내위생/화장지",
+    "intg_cat4": "화장지/티슈/타올"
+  },
+  {
+    "intg_id": "C07_LIFE_007",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "실내위생/화장지",
+    "intg_cat4": "방향/탈취/제습제"
+  },
+  {
+    "intg_id": "C07_LIFE_008",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "실내위생/화장지",
+    "intg_cat4": "살충/해충퇴치용품"
+  },
+  {
+    "intg_id": "C07_LIFE_009",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "개인위생/목욕/욕실",
+    "intg_cat4": "면도용품/면도기"
+  },
+  {
+    "intg_id": "C07_LIFE_010",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "개인위생/목욕/욕실",
+    "intg_cat4": "생리대/청결제"
+  },
+  {
+    "intg_id": "C07_LIFE_011",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "개인위생/목욕/욕실",
+    "intg_cat4": "구강용품/칫솔"
+  },
+  {
+    "intg_id": "C07_LIFE_012",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "세탁/청소/위생",
+    "intg_cat3": "개인위생/목욕/욕실",
+    "intg_cat4": "욕실/목욕용품"
+  },
+  {
+    "intg_id": "C07_LIFE_013",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "수납/생활잡화",
+    "intg_cat3": "수납용품",
+    "intg_cat4": "수납용품/옷걸이"
+  },
+  {
+    "intg_id": "C07_LIFE_014",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "수납/생활잡화",
+    "intg_cat3": "생활잡화",
+    "intg_cat4": "도어락/보안/안전용품"
+  },
+  {
+    "intg_id": "C07_LIFE_015",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "수납/생활잡화",
+    "intg_cat3": "생활잡화",
+    "intg_cat4": "공구/철물/산업재"
+  },
+  {
+    "intg_id": "C07_LIFE_016",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "수납/생활잡화",
+    "intg_cat3": "생활잡화",
+    "intg_cat4": "기타생활잡화"
+  },
+  {
+    "intg_id": "C07_LIFE_017",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강/다이어트용품",
+    "intg_cat4": "안마/찜질/자극용품"
+  },
+  {
+    "intg_id": "C07_LIFE_018",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강/다이어트용품",
+    "intg_cat4": "반신욕/사우나/특수매트"
+  },
+  {
+    "intg_id": "C07_LIFE_019",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강관리/실버용품",
+    "intg_cat4": "건강측정계"
+  },
+  {
+    "intg_id": "C07_LIFE_020",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강관리/실버용품",
+    "intg_cat4": "손/발/코/호흡기관리"
+  },
+  {
+    "intg_id": "C07_LIFE_021",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강관리/실버용품",
+    "intg_cat4": "재활/간병용품"
+  },
+  {
+    "intg_id": "C07_LIFE_022",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "건강/다이어트/실버",
+    "intg_cat3": "건강관리/실버용품",
+    "intg_cat4": "건강관리/구급용품"
+  },
+  {
+    "intg_id": "C07_LIFE_023",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "노트/다이어리/달력"
+  },
+  {
+    "intg_id": "C07_LIFE_024",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "파일/바인더/사무용지"
+  },
+  {
+    "intg_id": "C07_LIFE_025",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "사무기기"
+  },
+  {
+    "intg_id": "C07_LIFE_026",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "잉크/토너"
+  },
+  {
+    "intg_id": "C07_LIFE_027",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "필기구/미술용품"
+  },
+  {
+    "intg_id": "C07_LIFE_028",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "문구",
+    "intg_cat4": "사무용품/학용품/기타"
+  },
+  {
+    "intg_id": "C07_LIFE_029",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "악기/음반",
+    "intg_cat4": "건반/현/관/타악기"
+  },
+  {
+    "intg_id": "C07_LIFE_030",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "악기/음반",
+    "intg_cat4": "음반/DVD"
+  },
+  {
+    "intg_id": "C07_LIFE_031",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "도서",
+    "intg_cat4": "문학/실용"
+  },
+  {
+    "intg_id": "C07_LIFE_032",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "도서",
+    "intg_cat4": "인문/교양"
+  },
+  {
+    "intg_id": "C07_LIFE_033",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "도서",
+    "intg_cat4": "학습/교육/원서"
+  },
+  {
+    "intg_id": "C07_LIFE_034",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "취미",
+    "intg_cat4": "취미/키덜트/수집용품"
+  },
+  {
+    "intg_id": "C07_LIFE_035",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "취미",
+    "intg_cat4": "수집용품"
+  },
+  {
+    "intg_id": "C07_LIFE_036",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "문구/악기/도서/취미",
+    "intg_cat3": "취미",
+    "intg_cat4": "원예/조경용품"
+  },
+  {
+    "intg_id": "C07_LIFE_037",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "조리도구",
+    "intg_cat4": "후라이팬"
+  },
+  {
+    "intg_id": "C07_LIFE_038",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "조리도구",
+    "intg_cat4": "냄비"
+  },
+  {
+    "intg_id": "C07_LIFE_039",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "조리도구",
+    "intg_cat4": "솥/뚝배기/조리기"
+  },
+  {
+    "intg_id": "C07_LIFE_040",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "조리도구",
+    "intg_cat4": "칼/도마"
+  },
+  {
+    "intg_id": "C07_LIFE_041",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "조리도구",
+    "intg_cat4": "기타조리도구"
+  },
+  {
+    "intg_id": "C07_LIFE_042",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "저장도구",
+    "intg_cat4": "보관/밀폐용기"
+  },
+  {
+    "intg_id": "C07_LIFE_043",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "저장도구",
+    "intg_cat4": "보온/보냉용품"
+  },
+  {
+    "intg_id": "C07_LIFE_044",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "식기/수저/컵",
+    "intg_cat4": "식기류"
+  },
+  {
+    "intg_id": "C07_LIFE_045",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "식기/수저/컵",
+    "intg_cat4": "수저류"
+  },
+  {
+    "intg_id": "C07_LIFE_046",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "식기/수저/컵",
+    "intg_cat4": "컵/잔/다기/주기"
+  },
+  {
+    "intg_id": "C07_LIFE_047",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "기타주방용품",
+    "intg_cat4": "커피/와인용품"
+  },
+  {
+    "intg_id": "C07_LIFE_048",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "기타주방용품",
+    "intg_cat4": "제수용품"
+  },
+  {
+    "intg_id": "C07_LIFE_049",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "기타주방용품",
+    "intg_cat4": "주방용품/잡화"
+  },
+  {
+    "intg_id": "C07_LIFE_050",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "주방용품",
+    "intg_cat3": "기타주방용품",
+    "intg_cat4": "원예식물/비료"
+  },
+  {
+    "intg_id": "C07_LIFE_051",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려견",
+    "intg_cat4": "푸드/건강관리"
+  },
+  {
+    "intg_id": "C07_LIFE_052",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려견",
+    "intg_cat4": "위생/외출/목욕/미용"
+  },
+  {
+    "intg_id": "C07_LIFE_053",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려견",
+    "intg_cat4": "리빙/IOT"
+  },
+  {
+    "intg_id": "C07_LIFE_054",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려견",
+    "intg_cat4": "장난감/훈련도구/패션"
+  },
+  {
+    "intg_id": "C07_LIFE_055",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려묘",
+    "intg_cat4": "푸드/건강관리"
+  },
+  {
+    "intg_id": "C07_LIFE_056",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려묘",
+    "intg_cat4": "위생/외출/목욕/미용"
+  },
+  {
+    "intg_id": "C07_LIFE_057",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려묘",
+    "intg_cat4": "리빙/IOT"
+  },
+  {
+    "intg_id": "C07_LIFE_058",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "반려묘",
+    "intg_cat4": "장난감/훈련도구/패션"
+  },
+  {
+    "intg_id": "C07_LIFE_059",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "기타반려동물",
+    "intg_cat4": "관상어용품"
+  },
+  {
+    "intg_id": "C07_LIFE_060",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "기타반려동물",
+    "intg_cat4": "기타소동물용품"
+  },
+  {
+    "intg_id": "C07_LIFE_061",
+    "intg_cat1": "생활/주방/반려동물",
+    "intg_cat2": "반려동물",
+    "intg_cat3": "기타반려동물",
+    "intg_cat4": "기타반려생활용품"
+  },
+  {
+    "intg_id": "C08_FNTR_001",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "침대",
+    "intg_cat4": "퀸/킹침대"
+  },
+  {
+    "intg_id": "C08_FNTR_002",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "침대",
+    "intg_cat4": "더블침대"
+  },
+  {
+    "intg_id": "C08_FNTR_003",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "침대",
+    "intg_cat4": "슈퍼싱글침대"
+  },
+  {
+    "intg_id": "C08_FNTR_004",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "침대",
+    "intg_cat4": "싱글침대"
+  },
+  {
+    "intg_id": "C08_FNTR_005",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "침대",
+    "intg_cat4": "돌/흙침대/기타침대"
+  },
+  {
+    "intg_id": "C08_FNTR_006",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "매트리스",
+    "intg_cat4": "스프링매트리스"
+  },
+  {
+    "intg_id": "C08_FNTR_007",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "매트리스",
+    "intg_cat4": "라텍스매트리스"
+  },
+  {
+    "intg_id": "C08_FNTR_008",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "매트리스",
+    "intg_cat4": "메모리폼매트리스"
+  },
+  {
+    "intg_id": "C08_FNTR_009",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "장롱/행거/드레스룸",
+    "intg_cat4": "장롱"
+  },
+  {
+    "intg_id": "C08_FNTR_010",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "장롱/행거/드레스룸",
+    "intg_cat4": "붙박이장"
+  },
+  {
+    "intg_id": "C08_FNTR_011",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "장롱/행거/드레스룸",
+    "intg_cat4": "헹거"
+  },
+  {
+    "intg_id": "C08_FNTR_012",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "장롱/행거/드레스룸",
+    "intg_cat4": "드레스룸"
+  },
+  {
+    "intg_id": "C08_FNTR_013",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서랍장/화장대/협탁",
+    "intg_cat4": "서랍장"
+  },
+  {
+    "intg_id": "C08_FNTR_014",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서랍장/화장대/협탁",
+    "intg_cat4": "화장대/콘솔/대형거울"
+  },
+  {
+    "intg_id": "C08_FNTR_015",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서랍장/화장대/협탁",
+    "intg_cat4": "화장대의자/스툴/협탁"
+  },
+  {
+    "intg_id": "C08_FNTR_016",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "소파/거실의자",
+    "intg_cat4": "가죽소파"
+  },
+  {
+    "intg_id": "C08_FNTR_017",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "소파/거실의자",
+    "intg_cat4": "PU/인조가죽소파"
+  },
+  {
+    "intg_id": "C08_FNTR_018",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "소파/거실의자",
+    "intg_cat4": "패브릭소파"
+  },
+  {
+    "intg_id": "C08_FNTR_019",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "소파/거실의자",
+    "intg_cat4": "리클라이너"
+  },
+  {
+    "intg_id": "C08_FNTR_020",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "소파/거실의자",
+    "intg_cat4": "빈백/소파베드/거실의자"
+  },
+  {
+    "intg_id": "C08_FNTR_021",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "거실장/장식장/테이블",
+    "intg_cat4": "거실장"
+  },
+  {
+    "intg_id": "C08_FNTR_022",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "거실장/장식장/테이블",
+    "intg_cat4": "장식장/진열장"
+  },
+  {
+    "intg_id": "C08_FNTR_023",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "거실장/장식장/테이블",
+    "intg_cat4": "테이블"
+  },
+  {
+    "intg_id": "C08_FNTR_024",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "주방/수납용가구",
+    "intg_cat4": "식탁"
+  },
+  {
+    "intg_id": "C08_FNTR_025",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "주방/수납용가구",
+    "intg_cat4": "식탁의자"
+  },
+  {
+    "intg_id": "C08_FNTR_026",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "주방/수납용가구",
+    "intg_cat4": "수납용가구/선반/신발장"
+  },
+  {
+    "intg_id": "C08_FNTR_027",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서재용가구",
+    "intg_cat4": "책상"
+  },
+  {
+    "intg_id": "C08_FNTR_028",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서재용가구",
+    "intg_cat4": "의자"
+  },
+  {
+    "intg_id": "C08_FNTR_029",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "가구",
+    "intg_cat3": "서재용가구",
+    "intg_cat4": "책장/책꽂이"
+  },
+  {
+    "intg_id": "C08_FNTR_030",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "이불/담요"
+  },
+  {
+    "intg_id": "C08_FNTR_031",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "스프레드/패드/토퍼/요"
+  },
+  {
+    "intg_id": "C08_FNTR_032",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "베개/바디필로우"
+  },
+  {
+    "intg_id": "C08_FNTR_033",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "이불솜/베개솜"
+  },
+  {
+    "intg_id": "C08_FNTR_034",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "커버단품/세트"
+  },
+  {
+    "intg_id": "C08_FNTR_035",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "침구세트"
+  },
+  {
+    "intg_id": "C08_FNTR_036",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "침구",
+    "intg_cat4": "기타침구"
+  },
+  {
+    "intg_id": "C08_FNTR_037",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "커튼/블라인드",
+    "intg_cat4": "커튼/버티컬/가림막"
+  },
+  {
+    "intg_id": "C08_FNTR_038",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "커튼/블라인드",
+    "intg_cat4": "블라인드/롤스크린/발"
+  },
+  {
+    "intg_id": "C08_FNTR_039",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "커튼/블라인드",
+    "intg_cat4": "커튼봉/액세서리"
+  },
+  {
+    "intg_id": "C08_FNTR_040",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "카페트/러그/매트",
+    "intg_cat4": "카페트"
+  },
+  {
+    "intg_id": "C08_FNTR_041",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "카페트/러그/매트",
+    "intg_cat4": "러그/대자리/왕골자리"
+  },
+  {
+    "intg_id": "C08_FNTR_042",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "카페트/러그/매트",
+    "intg_cat4": "쇼파패드/기타매트류"
+  },
+  {
+    "intg_id": "C08_FNTR_043",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "리모델링/시공",
+    "intg_cat4": "벽지/바닥/마루시공"
+  },
+  {
+    "intg_id": "C08_FNTR_044",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "리모델링/시공",
+    "intg_cat4": "창호/도어/현관장시공"
+  },
+  {
+    "intg_id": "C08_FNTR_045",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "리모델링/시공",
+    "intg_cat4": "주방시공"
+  },
+  {
+    "intg_id": "C08_FNTR_046",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "리모델링/시공",
+    "intg_cat4": "욕실/조명/기타시공"
+  },
+  {
+    "intg_id": "C08_FNTR_047",
+    "intg_cat1": "가구/인테리어",
+    "intg_cat2": "인테리어",
+    "intg_cat3": "인테리어소품",
+    "intg_cat4": "인테리어소품/DIY용품"
+  },
+  {
+    "intg_id": "C09_ELEC_001",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "TV/음향가전",
+    "intg_cat4": "TV/프로젝터/플레이어"
+  },
+  {
+    "intg_id": "C09_ELEC_002",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "TV/음향가전",
+    "intg_cat4": "음향가전/기기"
+  },
+  {
+    "intg_id": "C09_ELEC_003",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "냉장고/냉동고"
+  },
+  {
+    "intg_id": "C09_ELEC_004",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "가스/전기레인지"
+  },
+  {
+    "intg_id": "C09_ELEC_005",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "오븐/전자레인지"
+  },
+  {
+    "intg_id": "C09_ELEC_006",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "전기밥솥/중탕기"
+  },
+  {
+    "intg_id": "C09_ELEC_007",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "믹서/분쇄/주서/녹즙기"
+  },
+  {
+    "intg_id": "C09_ELEC_008",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "전기주전자/요리기/찜기"
+  },
+  {
+    "intg_id": "C09_ELEC_009",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "제과/제빵/제면/빙수기"
+  },
+  {
+    "intg_id": "C09_ELEC_010",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "커피머신/기기/정수기"
+  },
+  {
+    "intg_id": "C09_ELEC_011",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "식품건조기/제조기"
+  },
+  {
+    "intg_id": "C09_ELEC_012",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "주방가전",
+    "intg_cat4": "식기세척/음식물처리기"
+  },
+  {
+    "intg_id": "C09_ELEC_013",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "청소기"
+  },
+  {
+    "intg_id": "C09_ELEC_014",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "세탁기/건조기/탈수기"
+  },
+  {
+    "intg_id": "C09_ELEC_015",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "제습기/가습기/공기청정"
+  },
+  {
+    "intg_id": "C09_ELEC_016",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "냉방가전/에어컨/선풍기"
+  },
+  {
+    "intg_id": "C09_ELEC_017",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "난방가전/히터/보일러"
+  },
+  {
+    "intg_id": "C09_ELEC_018",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "다리미/재봉/보풀제거"
+  },
+  {
+    "intg_id": "C09_ELEC_019",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "구강청정"
+  },
+  {
+    "intg_id": "C09_ELEC_020",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "헤어기기"
+  },
+  {
+    "intg_id": "C09_ELEC_021",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "미용기기"
+  },
+  {
+    "intg_id": "C09_ELEC_022",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "가전/제품잡화",
+    "intg_cat3": "생활/계절/이미용가전",
+    "intg_cat4": "기타생활가전/잡화"
+  },
+  {
+    "intg_id": "C09_ELEC_023",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "카메라/캠코더/드론",
+    "intg_cat4": "카메라/광학기기"
+  },
+  {
+    "intg_id": "C09_ELEC_024",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "카메라/캠코더/드론",
+    "intg_cat4": "카메라렌즈/잡화"
+  },
+  {
+    "intg_id": "C09_ELEC_025",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "카메라/캠코더/드론",
+    "intg_cat4": "캠코더/액션캠"
+  },
+  {
+    "intg_id": "C09_ELEC_026",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "카메라/캠코더/드론",
+    "intg_cat4": "드론"
+  },
+  {
+    "intg_id": "C09_ELEC_027",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "차량용/사무용기기",
+    "intg_cat4": "내비/블랙박스/하이패스"
+  },
+  {
+    "intg_id": "C09_ELEC_028",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "차량용/사무용기기",
+    "intg_cat4": "차량용주변기기/잡화"
+  },
+  {
+    "intg_id": "C09_ELEC_029",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "차량용/사무용기기",
+    "intg_cat4": "전자사전/어학"
+  },
+  {
+    "intg_id": "C09_ELEC_030",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "차량용/사무용기기",
+    "intg_cat4": "사무기기"
+  },
+  {
+    "intg_id": "C09_ELEC_031",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "휴대/전화용기기",
+    "intg_cat4": "휴대폰/전화기"
+  },
+  {
+    "intg_id": "C09_ELEC_032",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "휴대/전화용기기",
+    "intg_cat4": "휴대폰/태블릿케이스"
+  },
+  {
+    "intg_id": "C09_ELEC_033",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "휴대/전화용기기",
+    "intg_cat4": "휴대폰/태블릿잡화"
+  },
+  {
+    "intg_id": "C09_ELEC_034",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "데스크탑/노트북/태블릿"
+  },
+  {
+    "intg_id": "C09_ELEC_035",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "서버/워크스테이션"
+  },
+  {
+    "intg_id": "C09_ELEC_036",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "저장장치"
+  },
+  {
+    "intg_id": "C09_ELEC_037",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "프린터/복합기/스캐너"
+  },
+  {
+    "intg_id": "C09_ELEC_038",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "컴퓨터주변기기/부품"
+  },
+  {
+    "intg_id": "C09_ELEC_039",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "컴퓨터액세서리/잡화"
+  },
+  {
+    "intg_id": "C09_ELEC_040",
+    "intg_cat1": "가전/디지털",
+    "intg_cat2": "디지털/제품잡화",
+    "intg_cat3": "컴퓨터/주변기기/게임",
+    "intg_cat4": "게임/소프트웨어"
+  },
+  {
+    "intg_id": "C10_TRVL_001",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "국내",
+    "intg_cat4": "국내여행/패키지"
+  },
+  {
+    "intg_id": "C10_TRVL_002",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "국내",
+    "intg_cat4": "국내숙박"
+  },
+  {
+    "intg_id": "C10_TRVL_003",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "국내",
+    "intg_cat4": "국내렌터카"
+  },
+  {
+    "intg_id": "C10_TRVL_004",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "제주도",
+    "intg_cat4": "제주도여행/패키지"
+  },
+  {
+    "intg_id": "C10_TRVL_005",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "제주도",
+    "intg_cat4": "제주도항공권"
+  },
+  {
+    "intg_id": "C10_TRVL_006",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "제주도",
+    "intg_cat4": "제주도숙박"
+  },
+  {
+    "intg_id": "C10_TRVL_007",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "제주도",
+    "intg_cat4": "제주도렌터카"
+  },
+  {
+    "intg_id": "C10_TRVL_008",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "해외",
+    "intg_cat4": "해외여행/패키지"
+  },
+  {
+    "intg_id": "C10_TRVL_009",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "해외",
+    "intg_cat4": "해외항공권"
+  },
+  {
+    "intg_id": "C10_TRVL_010",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "여행/숙박/항공권",
+    "intg_cat3": "해외",
+    "intg_cat4": "해외숙박"
+  },
+  {
+    "intg_id": "C10_TRVL_011",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "라이프/뷰티",
+    "intg_cat4": "백화점/편의점/주유/통신"
+  },
+  {
+    "intg_id": "C10_TRVL_012",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "라이프/뷰티",
+    "intg_cat4": "건강/뷰티/패션/안경"
+  },
+  {
+    "intg_id": "C10_TRVL_013",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "라이프/뷰티",
+    "intg_cat4": "영화관람권"
+  },
+  {
+    "intg_id": "C10_TRVL_014",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "외식/음료/디저트",
+    "intg_cat4": "레스토랑/뷔페"
+  },
+  {
+    "intg_id": "C10_TRVL_015",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "외식/음료/디저트",
+    "intg_cat4": "식당/프랜차이즈"
+  },
+  {
+    "intg_id": "C10_TRVL_016",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "외식/음료/디저트",
+    "intg_cat4": "버거/치킨/피자/분식"
+  },
+  {
+    "intg_id": "C10_TRVL_017",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "외식/음료/디저트",
+    "intg_cat4": "커피/음료/빙수"
+  },
+  {
+    "intg_id": "C10_TRVL_018",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "외식/음료/디저트",
+    "intg_cat4": "아이스크림/베이커리"
+  },
+  {
+    "intg_id": "C10_TRVL_019",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "문화/레져",
+    "intg_cat4": "관광지입장권/체험권"
+  },
+  {
+    "intg_id": "C10_TRVL_020",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "문화/레져",
+    "intg_cat4": "테마파크/아쿠아리움"
+  },
+  {
+    "intg_id": "C10_TRVL_021",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "문화/레져",
+    "intg_cat4": "스파/워터파크"
+  },
+  {
+    "intg_id": "C10_TRVL_022",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "상품권/e쿠폰",
+    "intg_cat3": "웨딩",
+    "intg_cat4": "웨딩/사진"
+  },
+  {
+    "intg_id": "C10_TRVL_023",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "렌탈",
+    "intg_cat4": "정수기/커피머신렌탈"
+  },
+  {
+    "intg_id": "C10_TRVL_024",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "렌탈",
+    "intg_cat4": "욕실/주방가전렌탈"
+  },
+  {
+    "intg_id": "C10_TRVL_025",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "렌탈",
+    "intg_cat4": "가전/컴퓨터렌탈"
+  },
+  {
+    "intg_id": "C10_TRVL_026",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "렌탈",
+    "intg_cat4": "가구/이미용/교육렌탈"
+  },
+  {
+    "intg_id": "C10_TRVL_027",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "렌탈",
+    "intg_cat4": "자동차/레져렌탈"
+  },
+  {
+    "intg_id": "C10_TRVL_028",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "배달",
+    "intg_cat4": "꽃/과일"
+  },
+  {
+    "intg_id": "C10_TRVL_029",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "배달",
+    "intg_cat4": "화환/난/화분"
+  },
+  {
+    "intg_id": "C10_TRVL_030",
+    "intg_cat1": "여행/서비스",
+    "intg_cat2": "렌탈/배달/서비스",
+    "intg_cat3": "서비스",
+    "intg_cat4": "이사/설치/무형서비스"
+  }
+]
