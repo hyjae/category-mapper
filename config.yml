@@ -1,13 +1,13 @@
 mysql:
-    username: root
+    username: username
     password: password
-    address: 192.168.210.146
-    dbname: humuson
+    address: 192.168.210.143
+    dbname: rec_system
     charset: utf8
 
-es:
-    username: root
-    password: password
+elasticsearch:
     address: [
         192.168.210.149,
+        192.168.210.150
     ]
+    port: 9200

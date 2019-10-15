@@ -1,7 +1,4 @@
 {
-  "index_patterns": [
-    "intg_category"
-  ],
   "settings": {
     "analysis": {
       "analyzer": {
