@@ -26,10 +26,7 @@ SHOW TRIGGERS;
 
 -- TEST CASES
 
-INSERT EP_INFO VALUES (-1, '1', 'item1', NULL, 'TV/냉장고/세탁기/계절가전', '김치냉장고', '서랍/뚜껑형', '~100L');
-INSERT EP_INFO VALUES (-1, '2', 'item2', NULL, NULL, '김치냉장고', '서랍/뚜껑형', '~100L');
-INSERT EP_INFO VALUES (-1, '3', 'item3', NULL, 'TV/냉장고/세탁기/계절가전', '김치냉장고', '서랍/뚜껑형', '~100L');
-INSERT EP_INFO VALUES (-1, '4', 'item4', NULL, NULL, '김치냉장고', '서랍/뚜껑형', '~100L');
+INSERT EP_INFO VALUES (-1, '1', 'item1', NULL, 'cat1', 'cat2', 'cat3', 'cat4');
 
 SELECT * FROM EP_INFO WHERE SHOPPING_ID = -1;
 DELETE FROM REC_SYSTEM.EP_INFO WHERE SHOPPING_ID = -1;
