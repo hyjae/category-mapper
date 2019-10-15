@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3b453b-20c1-420f-866f-83366de95d0b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/DS_18_D3_047.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CreateTrigger.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/CreateView.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/DeleteRecord.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql/object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cat-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cat-mapper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cat-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/category-mapper.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/cnnt.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysql/connector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/object.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/utils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/es/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/files/index_settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es/cnnt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/category.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/category.json" beforeDir="false" afterPath="$PROJECT_DIR$/files/intg_category.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/category_tpl.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/process.py" beforeDir="false" afterPath="$PROJECT_DIR$/process.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +47,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/files" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -100,7 +75,7 @@
   </component>
   <component name="RunManager" selected="Python.setup">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cat-mapper" />
+      <module name="category-mapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -122,7 +97,7 @@
       <method v="2" />
     </configuration>
     <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cat-mapper" />
+      <module name="category-mapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -144,7 +119,7 @@
       <method v="2" />
     </configuration>
     <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="cat-mapper" />
+      <module name="category-mapper" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -216,7 +191,8 @@
       <workItem from="1570778945665" duration="8013000" />
       <workItem from="1571018379219" duration="5380000" />
       <workItem from="1571100140251" duration="507000" />
-      <workItem from="1571106393246" duration="327000" />
+      <workItem from="1571106393246" duration="613000" />
+      <workItem from="1571107198368" duration="594000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1567747950268</created>
