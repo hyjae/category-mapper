@@ -5,8 +5,19 @@ Need to install Python3.x beforehand
 ### Install python and libs
 
 ```bash
-yum -y install python-devel mysql-devel
+yum -y install mysql-devel
 ```
+
+version specific
+```bash
+yum -y install python-devel
+yum -y install python36-devel
+```
+
+```bash
+yum install gcc
+```
+
 
 ```bash
 sudo yum install centos-release-scl
