@@ -4,6 +4,15 @@ Need to install Python3.x beforehand
 
 ### Install python and libs
 
+install python
+```bash
+sudo yum install centos-release-scl
+sudo yum install rh-python36
+python --version
+yum install scl-utils
+scl enable rh-python36 bash
+```
+
 ```bash
 yum -y install mysql-devel
 ```
@@ -17,15 +26,6 @@ yum -y install python36-devel
 only if you don't have gcc and complain during an install process
 ```bash
 yum install gcc
-```
-
-
-```bash
-sudo yum install centos-release-scl
-sudo yum install rh-python36
-python --version
-yum install scl-utils
-scl enable rh-python36 bash
 ```
 
 ### Installing Pipenv
