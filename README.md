@@ -14,6 +14,7 @@ yum -y install python-devel
 yum -y install python36-devel
 ```
 
+only if you don't have gcc and complain during an install process
 ```bash
 yum install gcc
 ```
